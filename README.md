@@ -23,7 +23,7 @@ Really, anything related to the technologies outlined in my Tech Stack section a
 - Python programming
 - Web Scraping Projects
 - React Projects
-I might do pro bono depending on my time and how well the project excites me. 
+###### I might do pro bono depending on the 'free' time I have and how well the project excites me. 
 <!---
 QuameOphory/QuameOphory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
