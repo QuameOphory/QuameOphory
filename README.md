@@ -1,5 +1,6 @@
 ## Ebenezer Ofori-Mensah
-Hi, welcome to my GitHub. 
+![Profile Image](https://avatars.githubusercontent.com/u/50950951?s=400&u=457fd8468cbec2293c8beea9710a8e33ad75f485&v=4)
+##### Hi, welcome to my GitHub. 
 Here you will find most of the projects I have and is working on. 
 ## About Me
 Studied Computer Science at the Kwame Nkrumah University of Science & Technology.
