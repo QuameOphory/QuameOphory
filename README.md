@@ -5,19 +5,20 @@ Here you will find most of the projects I have and is working on.
 ## About Me
 Studied Computer Science at the Kwame Nkrumah University of Science & Technology.
 I'm very focused and love a challenge. I believe in what a lot of people say - that life is what you make it. So I'm trying to see if my actions and decisions will create my life for real. In the end if they don't, at least I will know there's something more to it than efforts, actions and decisions. I love to think, especially, about my thoughts.
-## Tech Stack
+## Skills
 - Python
 - Django
-- HTML
-- BootStrap
-- CSS (TailWind CSS)
-- JavaScript (React)
+- HTML (BootStrap), CSS (TailWind) & JavaScript (React)
 - Web Scraping
 - Machine Leaarning
+## Database(s)
 - PostgreSQL
+## Collaboration
+- Git
+- Github
 ## Contact Me
-- Email - quameophory@yahoo.com
-- LinkedIn - https://www.linkedin.com/in/ebenezer-ofori-mensah-02585022b/
+- [Send me an Email](quameophory@yahoo.com)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/ebenezer-ofori-mensah-02585022b/)
 ## Freelancing Interests & Projects
 Really, anything related to the technologies outlined in my Tech Stack section above especially
 - Django Projects
